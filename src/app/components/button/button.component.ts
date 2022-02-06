@@ -20,6 +20,4 @@ onClick(){
   this.btnClick.emit();
 }
 
-
-
 }
